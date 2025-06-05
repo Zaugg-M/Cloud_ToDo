@@ -10,7 +10,7 @@ To use the app:
 - Register a new user or log in
 - Manage your tasks through a simple menu-driven interface
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KmhanovMCGI)
 
 # Cloud Database
 
